@@ -20,4 +20,4 @@ def main():
 if __name__ == '__main__':
     print("Project Deployed");
     main()
-    print("Project ");
+    print("Project Deployed");
