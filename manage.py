@@ -18,4 +18,6 @@ def main():
 
 
 if __name__ == '__main__':
+    print("Project Deployed");
     main()
+    print("Project Deployed");
